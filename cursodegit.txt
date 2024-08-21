@@ -13,3 +13,7 @@ segunda modificacion desde newdesarrollo
 cambio desde desarrollo a qa 2024/08/21
 
 ahora cambio desde github
+
+
+
+cree otra rama qas
