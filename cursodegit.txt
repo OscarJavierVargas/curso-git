@@ -21,3 +21,15 @@ otro
 
 desd hub
  git clone -b rama-QA http//
+
+
+
+
+
+
+
+
+
+
+
+ssssssas
