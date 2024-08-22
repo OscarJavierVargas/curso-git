@@ -1,1 +1,23 @@
 curso de git
+
+modificado desde github
+
+
+modificado desde newdesarrollo
+
+
+segunda modificacion desde github qa
+
+
+segunda modificacion desde newdesarrollo
+cambio desde desarrollo a qa 2024/08/21
+
+ahora cambio desde github
+
+
+
+cree otra rama qas
+otro
+
+desd hub
+ git clone -b rama-QA http//
