@@ -22,12 +22,15 @@ otro
 desd hub
  git clone -b rama-QA http//
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
 ssssssas
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 982d5be94136247a13328b5a782b47555ab400b1
 fgdfgd
 =======
 fdgdfg
@@ -36,6 +39,10 @@ asdfasf
  dsds
  dsgffg
  dfdsgsrgsefrg
+<<<<<<< HEAD
  asfdgsfdgd79811126
 >>>>>>> 982d5be94136247a13328b5a782b47555ab400b1
 oscar
+=======
+ asfdgsfdgd79811126
+>>>>>>> 982d5be94136247a13328b5a782b47555ab400b1
