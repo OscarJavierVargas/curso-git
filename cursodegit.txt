@@ -20,3 +20,4 @@ cree otra rama qas
 otro
 
 desd hub
+ git clone -b rama-QA http//
